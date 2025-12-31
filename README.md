@@ -21,7 +21,6 @@
 ![pictures1](https://github.com/user-attachments/assets/98caabf2-bd3e-4839-9785-cac6f3f0f72a)
 
 >[!CAUTION]
-
 >The rippled side of the zip tie needs to face the other side than the bends are!
 
 * Now you just insert the bend parts of the zip tie into preprinted retest of the leaver [see here!](main%20body_V1/leaver.stl). After that you just bend the leaver and tread a piece of filament through the hole. You can take and slide the lock [see here!](main%20body_V1/lock.stl) into the resist and tread two pieces of filament through it. After, you just put the upper part [see here!](main%20body_V1/upper%20body.stl) on all of them. It can be a bit finicky if the filament isn't perfectly straight.
