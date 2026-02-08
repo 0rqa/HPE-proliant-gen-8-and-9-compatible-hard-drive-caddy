@@ -23,6 +23,9 @@
 >[!CAUTION]
 >The rippled side of the zip tie needs to face the other side than the bends are!
 
+>[!NOTE]
+>You can skip this part you just lose the springing effect of the pull out lever.
+
 * Now you just insert the bend parts of the zip tie into preprinted retest of the leaver [see here!](main%20body_V1/leaver.stl). After that you just bend the leaver and tread a piece of filament through the hole. You can take and slide the lock [see here!](main%20body_V1/lock.stl) into the resist and tread two pieces of filament through it. After, you just put the upper part [see here!](main%20body_V1/upper%20body.stl) on all of them. It can be a bit finicky if the filament isn't perfectly straight.
 ![picture2](https://github.com/user-attachments/assets/f0f226bf-243a-44b0-ad93-ec102be972c4)
 
