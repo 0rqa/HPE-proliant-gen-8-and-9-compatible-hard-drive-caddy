@@ -14,7 +14,11 @@
 # How to assemble
 * For assembly, you will need all 3D printed parts [see here!](main%20body_V1). You will also need 2.4mm zip tie and a piece filament of the same material as the printed body.
   
+
 ![IMG_3309](https://github.com/user-attachments/assets/e201c36a-eb63-46e4-99b1-15a72844e8c8)
+
+>[!NOTE]
+>You can skip this part you just lose the springing effect of the pull out lever.
 
 * For assembly of the "zip tie spring" you will need a 2.4mm zip tie as mentioned above.
 
@@ -23,11 +27,11 @@
 >[!CAUTION]
 >The rippled side of the zip tie needs to face the other side than the bends are!
 
->[!NOTE]
->You can skip this part you just lose the springing effect of the pull out lever.
 
 * Now you just insert the bend parts of the zip tie into preprinted retest of the leaver [see here!](main%20body_V1/leaver.stl). After that you just bend the leaver and tread a piece of filament through the hole. You can take and slide the lock [see here!](main%20body_V1/lock.stl) into the resist and tread two pieces of filament through it. After, you just put the upper part [see here!](main%20body_V1/upper%20body.stl) on all of them. It can be a bit finicky if the filament isn't perfectly straight.
 ![picture2](https://github.com/user-attachments/assets/f0f226bf-243a-44b0-ad93-ec102be972c4)
+
+
 
 Now you trim the filament about 1mm from the part. After that, you take soldering iron with a flat pit and melt the ends.
 
