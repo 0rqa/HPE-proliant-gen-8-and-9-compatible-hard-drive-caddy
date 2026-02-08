@@ -7,7 +7,7 @@
 ![Untitled-v1](https://github.com/user-attachments/assets/8bdf7b1b-322b-404a-a3bd-6c0f40e9e5c5)
 
 # Printing
-* I love organic support but in this case, the grid works best. The design is with cost in mind, so the whole caddy is only around 10g.
+* I love organic supports but in this case, the grid works best. The design is with cost in mind, so the whole caddy is only around 10g. I have made the side rails a lot lower in comparison to the original caddy. The caddy is a bit harder to put in, but for saving around 25g of filament I guess it's worth it :3
   
 ![Bez názvu 3](https://github.com/user-attachments/assets/9f1a8370-a15e-46ed-9029-c8c69af7dbfd)
 
