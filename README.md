@@ -36,9 +36,9 @@
 
 
 
-Now you trim the filament about 1mm from the part. After that, you take soldering iron with a flat pit and melt the ends.
+* Now you trim the filament about 1mm from the part. After that, you take soldering iron with a flat pit and melt the ends.
 
-* ![picture3](https://github.com/user-attachments/assets/39e594b7-d1b8-4efe-ad20-9066882fe48d)
+![picture3](https://github.com/user-attachments/assets/39e594b7-d1b8-4efe-ad20-9066882fe48d)
   
 >[!CAUTION]
 >Be aware that doing this is going to ruin your soldering tip! So use already old one or already ruined by previous plastic melting. Take care to clean all remaining solder from the tip before using it.
@@ -48,4 +48,10 @@ Now you trim the filament about 1mm from the part. After that, you take solderin
 ![image4](https://github.com/user-attachments/assets/3653814f-1685-4888-8ffb-72d284513704)
 
 >[!NOTE]
->The caddy is a bit flimsy until you put a 2.5 drive into it. So for that reason i don't recommend putting empty caddy into a server. 
+>The caddy is a bit flimsy until you put a 2.5 drive into it. So for that reason i don't recommend putting empty caddy into a server.
+
+
+# TODO:
+
+- [x] 2.5 version
+- [ ] 3.5 version
